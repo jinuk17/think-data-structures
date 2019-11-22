@@ -1,0 +1,12 @@
+server, client, host
+Option[S] Option[C] Option[H]
+
+match (Some(s), Some(c), Some(h) => dfejiofej
+_ => log
+
+
+===
+
+s.map( s -> c.map -> h.map(
+
+if(s.isPresent && c.isPre && h.isPre)
